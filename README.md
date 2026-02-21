@@ -1,13 +1,6 @@
 # PageRank-with-CUDA
 Parallelizing Google's PageRank algorithm in C++ with CUDA framework on GPU. Conducted some experiments, tried new ideas. 
 
-- [**Detailed Report of Everything**](https://github.com/princeofpython/PageRank-with-CUDA/blob/main/Report.pdf)
-- [Sequential Code (C++)](https://github.com/princeofpython/PageRank-with-CUDA/blob/main/sequential.cpp)
-- [Parallel Code (C++ with CUDA)](https://github.com/princeofpython/PageRank-with-CUDA/blob/main/parallel.cu)
-- [Demo in Jupyter Notebook](https://github.com/princeofpython/PageRank-with-CUDA/blob/main/pagerank.ipynb)
-- [Datasets (File name indicates number of nodes)](https://github.com/princeofpython/PageRank-with-CUDA/tree/main/data)
-- [Tex Directory](https://github.com/princeofpython/PageRank-with-CUDA/tree/main/PageRank)
-
 We use the Internet to search for information on a daily basis. We use
 search engines to find out the useful information from the vast Internet.
 This is possible because the search engines are using a heuristic called
